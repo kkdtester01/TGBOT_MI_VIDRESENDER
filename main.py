@@ -11,7 +11,7 @@ import logging
 
 # Enable nested loops for Colab
 nest_asyncio.apply()
-API_TOKEN = "8028501216:AAGCd3xv4bgVPcA8Ngdt4CX9DtBTs36y2jI"
+API_TOKEN = "8028501216:AAEwLbre8h6HFcm8ObtNsctND8J4W_s70Aw"
 bot = AsyncTeleBot(API_TOKEN)
 
 STATE_FILE = "resender_state.json"
